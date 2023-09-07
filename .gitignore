@@ -1,0 +1,8 @@
+bin/
+test/
+analysis_options.yaml/
+CHANGELOG.md/
+pubspec.lock/
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
